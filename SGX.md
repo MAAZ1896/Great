@@ -7,7 +7,7 @@
 
 
 ## What is SGX
-SGX is an XXXX publishing tool that allows you identify errors, perform quality audits, troubleshoot digital file issues, mange metadata to enhance customer viewing experience and ensure timely publication of e-books. This guide explains how to validate author information. It outlines the requirements and provides clear steps to complete process.
+SGX is an XXXX publishing tool that allows you identify errors, perform quality audits, troubleshoot digital file issues, mange metadata to enhance customer viewing experience and ensure timely publication of e-books. This guide explains how to validate author information. It outlines the requirements and provides clear steps to complete the process.
 
 ## Requirements
 1. Verify that you have Author security key plugged in your device.
