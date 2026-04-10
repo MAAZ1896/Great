@@ -1,6 +1,6 @@
 # Starting a WhatsApp Call  
 
-![alt text](<Screenshot (69).png>)
+![alt text](image.png)
 
 
 Whatsapp allows users to place voice as well as video calls for both domestic and international communication.
