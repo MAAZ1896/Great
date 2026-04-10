@@ -1,4 +1,8 @@
-# Starting a WhatsApp Call  (![alt text](<Screenshot (69).png>)
+# Starting a WhatsApp Call  
+
+![alt text](<Screenshot (69).png>)
+
+
 Whatsapp allows users to place voice as well as video calls for both domestic and international communication.
 # Prerequisites
 - Verify that saved contact is registered on WhatsApp.
