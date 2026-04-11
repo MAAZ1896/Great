@@ -30,4 +30,6 @@ XXX SGX displays author information of titles published by the Author. Click Val
 11. Confidential.
 12. Return to SGX and click **Approve** on the bottom pane to auto link the author for bulk marketing mails system in CSR (Common Sense Recommendation) system.
 
+### CONTACT CUSTOMER CARE FOR DETAILED DISCUSSION.
 ![alt text](amazon.png)
+
